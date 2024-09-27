@@ -1,4 +1,4 @@
-# 👋 Hello, I'm gkpp7923!
+# 👋 Hello, I'm Yoshimura Genki!
 
 Welcome to my GitHub profile! I'm a passionate developer, specializing in data science, machine learning, and backend development.
 
