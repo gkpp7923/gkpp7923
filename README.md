@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer, specializing in data s
 
 - 🔭 Currently working on LSTM models for classification tasks and time-series analysis.
 - 🌱 Always learning about advanced AI models and optimization algorithms.
-- ⚡ Fun fact: I enjoy working on AI-driven optimization algorithms for real-world applications.
+- ⚡ I am currently working as a front-end and back-end engineer at a startup focused on digital transformation in the wedding industry.
 
 ## 🚀 Skills & Technologies
 
