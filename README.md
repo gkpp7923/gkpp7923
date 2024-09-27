@@ -1,16 +1,32 @@
-## Hi there 👋 I'm Yoshimura Genki
+# 👋 Hello, I'm gkpp7923!
 
-<!--
-**gkpp7923/gkpp7923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer, specializing in data science, machine learning, and backend development.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on LSTM models for classification tasks and time-series analysis.
+- 🌱 Always learning about advanced AI models and optimization algorithms.
+- ⚡ Fun fact: I enjoy working on AI-driven optimization algorithms for real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+- **Programming Languages:** Python, C, JavaScript, HTML, CSS, PHP
+- **Frameworks & Libraries:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn, PyTorch, Flask, etc...
+- **Tools:** Git, docker, VSCode, Jupyter Notebooks
+
+## 📈 GitHub Stats
+
+![gkpp7923's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkpp7923&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkpp7923&layout=compact&theme=radical)
+
+## 🛠️ Badges
+
+![Python](https://img.shields.io/badge/Python-3.8-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-2.x-red)
+![C](https://img.shields.io/badge/C-Programming-blue)
+
+## 📫 Find me on
+- [LinkedIn](https://www.linkedin.com/in/gkpp7923)
+- [Twitter](https://twitter.com/gkpp7923)
