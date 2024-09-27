@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Yoshimura Genki
 
 <!--
 **gkpp7923/gkpp7923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
