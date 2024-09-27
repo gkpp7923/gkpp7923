@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Yoshimura Genki!
 
-Welcome to my GitHub profile! I'm a passionate developer, specializing in data science, machine learning, and backend development.
+Welcome to my GitHub profile! I'm a passionate developer, specializing in data science, machine learning, and frontend and backend development.
 
 - 🔭 Currently working on LSTM models for classification tasks and time-series analysis.
 - 🌱 Always learning about advanced AI models and optimization algorithms.
