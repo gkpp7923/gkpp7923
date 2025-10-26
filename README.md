@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer, specializing in data science, machine learning, and frontend and backend development.
 
-## 📊 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkpp7923&layout=compact&theme=radical)
-
 ## 🛠️ Badges
 
 ![Python](https://img.shields.io/badge/Python-3.8-blue)
