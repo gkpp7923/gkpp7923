@@ -2,20 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer, specializing in data science, machine learning, and frontend and backend development.
 
-- 🔭 Currently working on LSTM models for classification tasks and time-series analysis.
-- 🌱 Always learning about advanced AI models and optimization algorithms.
-- ⚡ I am currently working as a front-end and back-end engineer at a startup focused on digital transformation in the wedding industry.
-
-## 🚀 Skills & Technologies
-
-- **Programming Languages:** Python, C, JavaScript, HTML, CSS, PHP
-- **Frameworks & Libraries:** TensorFlow, Keras, Pandas, NumPy, Scikit-learn, PyTorch, Flask, etc...
-- **Tools:** Git, docker, VSCode, Jupyter Notebooks
-
-## 📈 GitHub Stats
-
-![gkpp7923's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkpp7923&show_icons=true&theme=radical)
-
 ## 📊 Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkpp7923&layout=compact&theme=radical)
